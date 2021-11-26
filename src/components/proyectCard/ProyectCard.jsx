@@ -1,3 +1,4 @@
+import './proyectCard.css';
 import {useState, useEffect} from 'react';
 
 const ProyectCard = ({title, repository, deploy, classes}) => {

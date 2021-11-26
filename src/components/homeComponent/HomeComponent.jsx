@@ -1,4 +1,4 @@
-
+import './homeComponent.css';
 
 const HomeComponent = () => {
     return (
