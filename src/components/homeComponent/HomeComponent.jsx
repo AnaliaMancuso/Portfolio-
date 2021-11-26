@@ -1,5 +1,4 @@
 
-import style from './homeComponent.css';
 
 const HomeComponent = () => {
     return (

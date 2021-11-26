@@ -1,6 +1,5 @@
 import data from '../../data/proyects.json';
 import ProyectCard from '../proyectCard/ProyectCard';
-import style from './proyectContainer.css';
 
 const ProyectsContainer = () => {
     return (

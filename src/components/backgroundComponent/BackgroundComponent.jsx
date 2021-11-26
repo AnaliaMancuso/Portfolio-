@@ -1,4 +1,3 @@
-import style from './bg.css';
 import HomeComponent from '../homeComponent/HomeComponent';
 import ProyectsContainer from '../proyectsContainer/ProyectsContainer';
 
