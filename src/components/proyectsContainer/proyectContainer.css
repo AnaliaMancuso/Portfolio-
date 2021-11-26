@@ -1,0 +1,15 @@
+.proyect-container__title {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: #646262;
+    background-color:rgba(155, 152, 152, 0.4);
+    font-size: 2rem;
+    line-height: 1.5;
+}
+.proyect-container__container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 100px 0 0 0;
+    gap: 40px;
+}

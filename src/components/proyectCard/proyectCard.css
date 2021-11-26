@@ -1,0 +1,98 @@
+.proyect-card__container {
+    width: 350px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    border: 1px solid rgba(255, 255, 255, 0.40);
+    padding: 10px;
+    background-color:rgba(155, 152, 152, 0.4);
+    border-radius: 10%;
+    font-family: 'Roboto Mono', monospace;
+    color: #646262;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    text-align: center;
+}
+.proyect-card__container:hover {
+    transform:scale(1.1);
+    transition:all 1s;
+}
+.proyect-card__container p:hover {
+    background-color: #fbbbbb;
+    cursor: pointer;
+}
+.bg-card  {
+    height: 100px;
+    width: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-arch {
+    background-image: url('../../assets/arch.png');
+}
+.bg-planets {
+    background-image: url('../../assets/planet.png');
+}
+.bg-bravo {
+    background-image: url('../../assets/team-bravo.png');
+}
+.bg-time {
+    background-image: url('../../assets/time-tracker.png');
+}
+.bg-creative {
+    background-image: url('../../assets/creative-landing.png');
+}
+.bg-nico {
+    background-image: url('../../assets/nico-landing.png');
+}
+.bg-green {
+    background-image: url('../../assets/green-skin.png');
+}
+.bg-pink {
+    background-image: url('../../assets/pink-skin.png');
+}
+.bg-dark {
+    background-image: url('../../assets/dark-skin.png');
+}
+.bg-yellow {
+    background-image: url('../../assets/yellow-skin.png');
+}
+.bg-dev {
+    background-image: url('../../assets/card-developer.png');
+}
+.bg-mountain {
+    background-image: url('../../assets/mountains.png');
+}
+.bg-christmas {
+    background-image: url('../../assets/christmas.png');
+}
+.bg-simpleCard {
+    background-image: url('../../assets/card-simple.png');
+}
+.bg-news {
+    background-image: url('../../assets/heart.png');
+}
+.bg-newspaper {
+    background-image: url('../../assets/newspaper.png');
+}
+.bg-afro {
+    background-image: url('../../assets/afro.png');
+}
+.bg-car {
+    background-image: url('../../assets/car.png');
+}
+.bg-july {
+    background-image: url('../../assets/july.png');
+}
+.bg-harvest {
+    background-image: url('../../assets/harvest.png');
+}
+.bg-harvest {
+    background-image: url('../../assets/harvest.png');
+}
+.bg-lily {
+    background-image: url('../../assets/lily.png');
+}
