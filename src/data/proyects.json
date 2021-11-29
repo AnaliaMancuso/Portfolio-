@@ -5,7 +5,7 @@
             "name": "Blog",
             "repository": "https://github.com/AnaliaMancuso/blog",
             "deploy": "https://suspicious-jones-2772be.netlify.app/",
-            "classes": ""
+            "classes": "bg-blog"
         }
     },
     {
