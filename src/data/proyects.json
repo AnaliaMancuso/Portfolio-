@@ -2,6 +2,15 @@
     {
         "proyect": {
             "id": "1",
+            "name": "Star Wars",
+            "repository": "https://github.com/AnaliaMancuso/StarWars",
+            "deploy": "https://optimistic-shirley-2f5f98.netlify.app/",
+            "classes": "bg-starwars"
+        }
+    },
+    {
+        "proyect": {
+            "id": "2",
             "name": "Blog",
             "repository": "https://github.com/AnaliaMancuso/blog",
             "deploy": "https://suspicious-jones-2772be.netlify.app/",
@@ -10,7 +19,7 @@
     },
     {
         "proyect": {
-            "id": "2",
+            "id": "3",
             "name": "Arch",
             "repository": "https://github.com/AnaliaMancuso/Arch-Intive",
             "deploy": "https://youthful-brattain-03039e.netlify.app/",
@@ -19,7 +28,7 @@
     },
     {
         "proyect": {
-            "id": "3",
+            "id": "4",
             "name": "Planets",
             "repository": "https://github.com/AnaliaMancuso/Planets-react",
             "deploy": "https://romantic-joliot-dc7fe1.netlify.app/",
@@ -28,7 +37,7 @@
     },
     {
         "proyect": {
-            "id": "4",
+            "id": "5",
             "name": "Team Bravo",
             "repository": "https://github.com/AnaliaMancuso/Landing-teamBravo",
             "deploy": "https://team-bravo.netlify.app/",
@@ -37,7 +46,7 @@
     },
     {
         "proyect": {
-            "id": "5",
+            "id": "6",
             "name": "Time Tracker",
             "repository": "https://github.com/AnaliaMancuso/Time-Tracker-react-project-2",
             "deploy": "https://time-tracker-react.netlify.app/",
@@ -46,7 +55,7 @@
     },
     {
         "proyect": {
-            "id": "6",
+            "id": "7",
             "name": "Landing creative",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/landing-creative",
             "deploy": "https://fervent-murdock-b55636.netlify.app/",
@@ -55,7 +64,7 @@
     },
     {
         "proyect": {
-            "id": "7",
+            "id": "8",
             "name": "Landing nico",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/landing-nico",
             "deploy": "https://xenodochial-shaw-17a948.netlify.app/",
@@ -64,7 +73,7 @@
     },
     {
         "proyect": {
-            "id": "8",
+            "id": "9",
             "name": "Landing skins 1- green skin",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/trabajo-skins",
             "deploy": "https://dazzling-banach-b7af20.netlify.app/",
@@ -73,7 +82,7 @@
     },
     {
         "proyect": {
-            "id": "9",
+            "id": "10",
             "name": "Landing skins 2- pink skin",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/trabajo-skins",
             "deploy": "https://lucid-bose-a7738e.netlify.app/",
@@ -82,7 +91,7 @@
     },
     {
         "proyect": {
-            "id": "10",
+            "id": "11",
             "name": "Landing skins 3- dark skin",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/trabajo-skins",
             "deploy": "https://fervent-leavitt-a0e51d.netlify.app/",
@@ -91,7 +100,7 @@
     },
     {
         "proyect": {
-            "id": "11",
+            "id": "12",
             "name": "Landing skins 4- yellow skin",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/trabajo-skins",
             "deploy": "https://condescending-newton-aefeba.netlify.app/",
@@ -100,7 +109,7 @@
     },
     {
         "proyect": {
-            "id": "12",
+            "id": "13",
             "name": "Card developers",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/con-flex",
             "deploy": "https://eloquent-hodgkin-7ea6fe.netlify.app/",
@@ -109,7 +118,7 @@
     },
     {
         "proyect": {
-            "id": "13",
+            "id": "14",
             "name": "White Mountain",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/con-flex",
             "deploy": "https://friendly-ramanujan-3dfc98.netlify.app/",
@@ -118,7 +127,7 @@
     },
     {
         "proyect": {
-            "id": "14",
+            "id": "15",
             "name": "Christmas Tree",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/con-flex",
             "deploy": "https://friendly-ramanujan-3dfc98.netlify.app/",
@@ -127,7 +136,7 @@
     },
     {
         "proyect": {
-            "id": "15",
+            "id": "16",
             "name": "Simple Card",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/con-flex",
             "deploy": "https://pensive-jepsen-48ac59.netlify.app/",
@@ -136,7 +145,7 @@
     },
     {
         "proyect": {
-            "id": "16",
+            "id": "17",
             "name": "Heart",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/con-flex",
             "deploy": "https://serene-snyder-5b204f.netlify.app/",
@@ -145,7 +154,7 @@
     },
     {
         "proyect": {
-            "id": "17",
+            "id": "18",
             "name": "Newspaper",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/con-flex",
             "deploy": "https://wonderful-jones-fb964c.netlify.app/",
@@ -154,7 +163,7 @@
     },
     {
         "proyect": {
-            "id": "18",
+            "id": "19",
             "name": "Afro",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/cards-sin-flex",
             "deploy": "https://romantic-nobel-bf77a0.netlify.app/",
@@ -163,7 +172,7 @@
     },
     {
         "proyect": {
-            "id": "19",
+            "id": "20",
             "name": "The coldest sunset",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/cards-sin-flex",
             "deploy": "https://unruffled-montalcini-0cc771.netlify.app/",
@@ -172,7 +181,7 @@
     },
     {
         "proyect": {
-            "id": "20",
+            "id": "21",
             "name": "July Edition",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/cards-sin-flex",
             "deploy": "https://optimistic-einstein-cb1a1e.netlify.app/",
@@ -181,7 +190,7 @@
     },
     {
         "proyect": {
-            "id": "21",
+            "id": "22",
             "name": "Harvest Vase",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/cards-sin-flex",
             "deploy": "https://hopeful-wright-20026e.netlify.app/",
@@ -190,7 +199,7 @@
     },
     {
         "proyect": {
-            "id": "22",
+            "id": "23",
             "name": "Classic peace Lily",
             "repository": "https://github.com/AnaliaMancuso/intive/tree/main/cards-sin-flex",
             "deploy": "https://compassionate-sammet-f84b32.netlify.app/",
