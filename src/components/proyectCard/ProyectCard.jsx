@@ -19,7 +19,7 @@ const ProyectCard = ({title, repository, deploy, classes}) => {
     return (
         <div className="proyect-card__container">
             <div className={`bg-card `+  classes}></div>
-            <h3>Proyect Title: {title}</h3>
+            <h3>{title}</h3>
             <p  onClick={() => setClicked(true)}> GitHub</p>
             <p onClick={() => setDeployed(true)}> Site</p>
         </div>
