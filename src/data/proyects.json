@@ -7,20 +7,30 @@
       "classes": "bg-calculator"
     }
   },
-  {
-    "proyect": {
-      "name": "Time Tracker",
-      "repository": "https://github.com/AnaliaMancuso/Time-Tracker-react-project-2",
-      "deploy": "https://time-tracker-react.netlify.app/",
-      "classes": "bg-time"
-    }
-  },
+
   {
     "proyect": {
       "name": "Star Wars",
       "repository": "https://github.com/AnaliaMancuso/StarWars",
       "deploy": "https://optimistic-shirley-2f5f98.netlify.app/",
       "classes": "bg-starwars"
+    }
+  },
+  {
+    "proyect": {
+      "name": "Alzira Internacional",
+      "repository": "https://github.com/AnaliaMancuso/Alzira_Internacional/tree/main",
+      "deploy": "https://dreamy-lamport-b46281.netlify.app/",
+      "classes": "bg-alzira"
+    }
+  },
+
+  {
+    "proyect": {
+      "name": "Time Tracker",
+      "repository": "https://github.com/AnaliaMancuso/Time-Tracker-react-project-2",
+      "deploy": "https://time-tracker-react.netlify.app/",
+      "classes": "bg-time"
     }
   },
   {
