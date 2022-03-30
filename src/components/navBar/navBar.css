@@ -1,12 +1,15 @@
-.navbar-container {
-  display: inline-block;
+nav {
   display: flex;
-  z-index: 2;
-  list-style: none;
-  position: fixed;
+  padding: 0 10%;
   background-color: #ffffff;
   width: 100%;
-  padding: 0 10%;
+}
+.navbar-container {
+  position: fixed; 
+  z-index: 2;
+  
+  display: flex;
+  list-style: none;
 }
 
 .navbar-container__li {
@@ -38,3 +41,28 @@
   top: 0px;
   left: 0px;
 }
+.download-container a {
+  text-decoration: none;
+  text-decoration: underline 2px #FFE54C;
+  color: #000000;
+}
+.download-container a:hover {
+  color:#66f2d5;
+}
+.download-container {
+  position: fixed; 
+  z-index: 2;
+  background-color: #ffffff;
+  right: 10%;
+  font-family: "Roboto Mono", monospace;
+  font-size: 1.5rem;
+  font-weight: 200;
+  letter-spacing: 1px;
+  padding: 13px 50px 13px;
+  outline: 0;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0);
+  height: 15px;
+  display: flex;
+}
+

@@ -1,6 +1,7 @@
 import React from "react";
 import "./navBar.css";
 import { Link } from "react-scroll";
+import { BiCloudDownload } from "react-icons/bi";
 
 const NavBar = () => {
   return (
@@ -46,6 +47,14 @@ const NavBar = () => {
             </Link>
           </li>
         </ul>
+        <div className="download-container">
+          <a
+            href="cv-analia-mancuso-negreira(en).pdf"
+            download="react-analia mancuso negreira.pdf"
+          >
+            Resume <BiCloudDownload />{" "}
+          </a>
+        </div>
       </nav>
     </>
   );

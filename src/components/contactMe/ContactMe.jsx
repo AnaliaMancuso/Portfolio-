@@ -14,6 +14,7 @@ const ContactMe = () => {
           className="contact-icon"
           href="mailto: analiamancuso@live.com"
           target="_blank"
+          rel="noreferrer"
         >
           <MdMail className="contact-icon" />
         </a>
@@ -21,6 +22,7 @@ const ContactMe = () => {
           className="contact-icon"
           href="https://www.linkedin.com/in/analia-mancuso-negreira/"
           target="_blank"
+          rel="noreferrer"
         >
           <BsLinkedin className="contact-icon" />
         </a>
