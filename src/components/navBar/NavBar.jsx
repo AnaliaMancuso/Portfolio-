@@ -1,7 +1,7 @@
 import React from "react";
 import "./navBar.css";
 import { Link } from "react-scroll";
-import { BiCloudDownload } from "react-icons/bi";
+import { GoCloudDownload } from "react-icons/go";
 
 const NavBar = () => {
   return (
@@ -49,10 +49,10 @@ const NavBar = () => {
         </ul>
         <div className="download-container">
           <a
-            href="cv-analia-mancuso-negreira(en).pdf"
-            download="react-analia mancuso negreira.pdf"
+            href="react-analia-mancuso-negreira.pdf"
+            download
           >
-            Resume <BiCloudDownload />{" "}
+            Download Resume <GoCloudDownload />
           </a>
         </div>
       </nav>
