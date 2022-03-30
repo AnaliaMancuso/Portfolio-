@@ -1,28 +1,29 @@
-import './proyectCard.css';
-import {useState, useEffect} from 'react';
+import "./proyectCard.css";
+import { GoBrowser } from "react-icons/go";
+import { BsGithub } from "react-icons/bs";
 
-const ProyectCard = ({title, repository, deploy, classes}) => {
-    const [clicked, setClicked] = useState(false);
-    const [deployed, setDeployed] = useState(false);
-
-    useEffect(() => {
-        if (clicked) {
-        window.location.assign(repository);
-        }
-    });
-    useEffect(() => {
-        if (deployed) {
-        window.location.assign(deploy);
-        }
-    });
-
-    return (
-        <div className="proyect-card__container">
-            <div className={`bg-card `+  classes}></div>
-            <h3>{title}</h3>
-            <p  onClick={() => setClicked(true)}> GitHub</p>
-            <p onClick={() => setDeployed(true)}> Site</p>
-        </div>
-    )
-}
+const ProyectCard = ({ title, repository, deploy, classes }) => {
+  return (
+    <div className="proyect-card__container">
+      <div className={`bg-card ` + classes}></div>
+      <h4>{title}</h4>
+      <a
+        className="proyect-card__container-links"
+        href={repository}
+        target="_blank"
+      >
+        <BsGithub />
+        Repository
+      </a>
+      <a
+        className="proyect-card__container-links"
+        href={deploy}
+        target="_blank"
+      >
+        <GoBrowser />
+        Live
+      </a>
+    </div>
+  );
+};
 export default ProyectCard;

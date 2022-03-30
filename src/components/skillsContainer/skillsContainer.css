@@ -1,0 +1,11 @@
+.skills-container__container {
+    width: 80vw;
+    column-count: 3;
+    list-style: circle;
+    list-style-position: inside;
+    margin: 10vh auto;
+    font-family: 'Roboto Mono', monospace;
+    color: #646262;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}

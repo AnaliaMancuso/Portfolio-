@@ -1,5 +1,5 @@
 .proyect-card__container {
-    width: 350px;
+    width: 400px;
     height: 300px;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,8 @@
     align-items: center; 
     border: 1px solid rgba(255, 255, 255, 0.40);
     padding: 10px;
-    background-color:rgba(155, 152, 152, 0.4);
+    /* background-color:rgba(155, 152, 152, 0.4); */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10%;
     font-family: 'Roboto Mono', monospace;
     color: #646262;
@@ -15,13 +16,19 @@
     line-height: 1.5;
     text-align: center;
 }
-.proyect-card__container:hover {
-    transform:scale(1.1);
-    transition:all 1s;
+.proyect-card__container-links  {
+    font-family: 'Roboto Mono', monospace;
+    color: #646262;
+    text-decoration: none;
 }
-.proyect-card__container p:hover {
-    background-color: #fbbbbb;
+.proyect-card__container h4 {
+    margin: 20px 0;
+}
+.proyect-card__container-links:hover {
+    background-color: #FFE54C;
     cursor: pointer;
+    transform:scale(1.1);
+    transition:all 0.5s;
 }
 .bg-card  {
     height: 100px;
@@ -107,4 +114,7 @@
 }
 .bg-alzira {
     background-image: url('../../assets/alzira.png');
+}
+.bg-weather {
+    background-image: url('../../assets/weather.png');
 }

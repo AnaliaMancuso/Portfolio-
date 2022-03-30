@@ -1,4 +1,11 @@
-[
+[{
+  "proyect": {
+    "name": "Weather-App",
+    "repository": "https://github.com/AnaliaMancuso/Weather-App-useReducer",
+    "deploy": "https://elaborate-youtiao-928610.netlify.app/",
+    "classes": "bg-weather"
+  }
+},
   {
     "proyect": {
       "name": "Calculator",

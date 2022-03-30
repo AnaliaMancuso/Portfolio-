@@ -1,0 +1,147 @@
+[
+  {
+    "skill": {
+      "name": "React"
+    }
+  },
+  {
+    "skill": {
+      "name": "Javascript"
+    }
+  },
+  {
+    "skill": {
+      "name": "jQuery"
+    }
+  },
+  {
+    "skill": {
+      "name": "Web layout HTML 5"
+    }
+  },
+  {
+    "skill": {
+      "name": "CSS 3 and SCSS"
+    }
+  },
+  {
+    "skill": {
+      "name": "Node"
+    }
+  },
+  {
+    "skill": {
+      "name": "Postman"
+    }
+  },
+  {
+    "skill": {
+      "name": "Axios"
+    }
+  },
+  {
+    "skill": {
+      "name": "Jenkins"
+    }
+  },
+  {
+    "skill": {
+      "name": "Docker"
+    }
+  },
+  {
+    "skill": {
+      "name": "Virtual machine"
+    }
+  },
+  {
+    "skill": {
+      "name": "Linux (ubuntu)"
+    }
+  },
+  {
+    "skill": {
+      "name": "Redux"
+    }
+  },
+  {
+    "skill": {
+      "name": "Firebase"
+    }
+  },
+  {
+    "skill": {
+      "name": "JSON"
+    }
+  },
+  {
+    "skill": {
+      "name": "API"
+    }
+  },
+  {
+    "skill": {
+      "name": "Bootstrap"
+    }
+  },
+  {
+    "skill": {
+      "name": "Material UI"
+    }
+  },
+  {
+    "skill": {
+      "name": "Tailwind"
+    }
+  },
+  {
+    "skill": {
+      "name": "Whimsical"
+    }
+  },
+  {
+    "skill": {
+      "name": "Balsamiq"
+    }
+  },
+  {
+    "skill": {
+      "name": "Git and GitHub"
+    }
+  },
+  {
+    "skill": {
+      "name": "SEO optimization"
+    }
+  },
+  {
+    "skill": {
+      "name": "SQL and mongo db"
+    }
+  },
+  {
+    "skill": {
+      "name": "Notion"
+    }
+  },
+  {
+    "skill": {
+      "name": "Jira"
+    }
+  },
+  {
+    "skill": {
+      "name": "Trello"
+    }
+  },
+  {
+    "skill": {
+      "name": "Agile work technologies"
+    }
+  },
+  {
+    "skill": {
+      "name": "PWA optimization"
+    }
+  }
+]
